@@ -1,2 +1,3 @@
-# investigacion_de_las_operaciones2
-Coursework for the course "Operations Research 2" at ITBA.
+# Final project for the course "Operations Research 2"
+
+Throughout the course, we developed a project focused on optimizing an industrial process related to seed production using simulation models in AnyLogic and statistical analysis. The goal was to improve the performance of classifiers and other plant operations to increase overall productivity. Starting from a conceptual model with key assumptions, decision and state variables, decision logic, and IDEF0 diagrams, we built a simulator to analyze the process. We ran experiments and stress tests to evaluate the impact of different operational changes, such as increasing classifier speed and adjusting the minimum order weight. Based on the results, we proposed two improvement strategies depending on investment priorities and resource utilization.
